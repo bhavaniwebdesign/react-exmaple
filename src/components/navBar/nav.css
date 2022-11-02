@@ -1,0 +1,16 @@
+nav ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  display: flex;
+  gap: 10px;
+}
+li {
+  padding: 10px;
+  background-color: aquamarine;
+  border-radius: 5px;
+}
+li a {
+  text-decoration: none;
+  color: #3a3636;
+}
